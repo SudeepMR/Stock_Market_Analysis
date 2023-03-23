@@ -15,7 +15,7 @@ The stocks we have chosen are from various industries and market caps namely,
 
 For the start, we shall investigate the Amazon stock individually and then move on to the combined analysis.
 
-# Tasks to be performed:
+# Steps and Tasks to be performed:
 + Read the Data from Yahoo finance website directly.
 + Perform cleaning.
 + What was the change in stock price over time?
